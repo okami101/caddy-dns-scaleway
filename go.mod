@@ -6,7 +6,7 @@ toolchain go1.24.1
 
 require (
 	github.com/caddyserver/caddy/v2 v2.9.1
-	github.com/okami101/libdns-scaleway v0.2.0
+	github.com/okami101/libdns-scaleway v0.2.1
 )
 
 require (

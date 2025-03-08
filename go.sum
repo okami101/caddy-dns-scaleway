@@ -129,6 +129,8 @@ github.com/neelance/astrewrite v0.0.0-20160511093645-99348263ae86/go.mod h1:kHJE
 github.com/neelance/sourcemap v0.0.0-20151028013722-8c68805598ab/go.mod h1:Qr6/a/Q4r9LP1IltGz7tA7iOK1WonHEYhu1HRBA7ZiM=
 github.com/okami101/libdns-scaleway v0.2.0 h1:QwpMIvjqErnLvFD0Oi8vJqTP9MBGlnDl6ezCVup8jLM=
 github.com/okami101/libdns-scaleway v0.2.0/go.mod h1:9r3b5lSBvIHuKC8r32cnmFQ5qkT8mspXTb7rLqS1f/g=
+github.com/okami101/libdns-scaleway v0.2.1 h1:T+L7rafINlUTlrlhylmeEom3NohVJ3WspjXukiuQkx0=
+github.com/okami101/libdns-scaleway v0.2.1/go.mod h1:9r3b5lSBvIHuKC8r32cnmFQ5qkT8mspXTb7rLqS1f/g=
 github.com/onsi/ginkgo/v2 v2.9.5 h1:+6Hr4uxzP4XIUyAkg61dWBw8lb/gc4/X5luuxN/EC+Q=
 github.com/onsi/ginkgo/v2 v2.9.5/go.mod h1:tvAoo1QUJwNEU2ITftXTpR7R1RbCzoZUOs3RonqW57k=
 github.com/onsi/ginkgo/v2 v2.23.0 h1:FA1xjp8ieYDzlgS5ABTpdUDB7wtngggONc8a7ku2NqQ=
